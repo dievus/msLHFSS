@@ -9,4 +9,3 @@ msLHFSS is used to quickly scan a client website for low-hanging fruit vulnerabi
 - Strict Transport Security vulnerabilities
 - Server Header information disclosure
 - TLS Version in Use (coming later)
-- 
